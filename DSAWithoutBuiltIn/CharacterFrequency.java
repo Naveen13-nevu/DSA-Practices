@@ -13,7 +13,7 @@ public class CharacterFrequency {
                     count++;
                 }
             }
-
+           
             boolean alreadyCounted = false;
 
             for (int k = 0; k < i; k++) {

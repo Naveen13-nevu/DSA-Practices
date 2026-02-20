@@ -16,9 +16,7 @@ public class SecondLargestElement {
             else if (arr[i]>second && arr[i] != first) {
                 second = arr[i];
             }
-
         }
         System.out.println(second);
-
     }
 }

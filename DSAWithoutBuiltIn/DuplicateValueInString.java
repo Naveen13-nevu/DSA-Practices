@@ -16,8 +16,5 @@ public class DuplicateValueInString {
             System.out.print(str.charAt(i)+ " ");
         }
         }
-           
-       
-
     }
 }

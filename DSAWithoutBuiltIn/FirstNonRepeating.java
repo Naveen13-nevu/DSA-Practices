@@ -13,6 +13,7 @@ public class FirstNonRepeating {
                     isRepeating=false;
                     break;
                 }
+                
             }
              if(isRepeating){
             System.out.println(str.charAt(i));

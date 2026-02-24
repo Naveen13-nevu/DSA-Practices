@@ -15,7 +15,7 @@ public static void main(String[] args) {
             }
         }
         if(isDuplicate){
-            System.out.println(arr[i]+ " ");
+            System.out.print(arr[i]+ " ");
         }
 
     }

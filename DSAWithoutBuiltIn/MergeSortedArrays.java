@@ -2,8 +2,8 @@ public class MergeSortedArrays {
 
     public static void main(String[] args) {
 
-        int arr1[] = {1, 3, 5};
-        int arr2[] = {2, 4, 6};
+        int arr1[] = {1, 2, 5};
+        int arr2[] = {2, 3, 6};
 
         int result[] = new int[arr1.length + arr2.length];
 

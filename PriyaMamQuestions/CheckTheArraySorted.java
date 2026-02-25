@@ -1,7 +1,7 @@
 
 public class CheckTheArraySorted {
     public static void main(String[] args) {
-        int arr []={1,0,3,4,5};
+        int arr []={1,2,3,4,5};
         boolean isSorted = true;
 
         for(int i=0;i<arr.length-1;i++){

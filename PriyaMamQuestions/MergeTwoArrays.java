@@ -14,8 +14,11 @@ public class MergeTwoArrays {
             merged[arr1.length+i]=arr2[i];
         }
 
-        for(int i=0;i<merged.length;i++){
-            System.out.print(merged[i]+" ");
+        // for(int i=0;i<merged.length;i++){
+        //     System.out.print(merged[i]+" ");
+        // }
+        for(int n:merged){
+            System.out.print(n+" ");
         }
     }
 }

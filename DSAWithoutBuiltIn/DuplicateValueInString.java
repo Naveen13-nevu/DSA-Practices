@@ -1,7 +1,7 @@
 
 public class DuplicateValueInString {
     public static void main(String[] args) {
-        String str = "Programming";
+        String str = "Programming Language";
 
         for(int i=0;i<str.length();i++){
 
